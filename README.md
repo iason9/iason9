@@ -4,7 +4,7 @@
 
 - 👨‍💻  I’m currently doing work as a freelancer.
 - 🏢  Besides freelancing i am launching my own software as a service and creating plugins
-- 📖  I’m currently learning everything because there is never enough of information, the more you learn the quickest you realize it 🤣
+- 📖  I’m currently learning everything because there is never enough of information, the more you learn the quickest you realize it 
 - 👯  I’m looking to collaborate with other web developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects, making plugins and more web apps with appropriate stack and that are scalable.
 - 💬 Ask me about anything, I am open to conversations.
