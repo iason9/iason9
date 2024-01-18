@@ -1,24 +1,34 @@
-### Hi there, I'm iason 👋
-- 🙎🏻‍♂️ About Me :  i have been interested in programming since 2013 but never really started doing code and focussing all my energy in code until 2018 that's when i really started practicing in real-world applications and making web apps, it was on that same year that i got my first remote web developer job.
----
+### Hi there! 👋
 
-- 👨‍💻  I’m currently building an E-commerce website from the ground up, and other additional websites.
-- 📖  I’m currently learning everything because there is never enough of information, the more you learn the quickest you realize it 
-- 👯  I’m looking to collaborate with other web developers and in EddieHubCommunity.
-- 🥅 2021 Goals: Contribute more to Open Source projects, keep learning in all aspects of life, not just Code, in other words, keep evolving and be all i can be.
-- 💬 Ask me about anything, I am open to conversations, contact me in twitter : https://twitter.com/iason9G
+I'm Iason, a seasoned backend developer with over 5 years of hands-on experience. Fluent in English, French, and Arabic, I bring a diverse linguistic and technical skill set to the table.
+
+#### 💼 Professional Experience
+
+- **Freelancer (1 Year):** Successfully worked as a freelancer, delivering top-notch solutions to clients and honing my expertise in various technologies.
+
+#### 🚀 Technologies & Skills
+
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** Laravel, Express.js, Symfony
+- **Libraries:** React.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Practices:** Git, Command Line, Server Administration
+
+#### 🌐 Projects
+
+1. **E-commerce Website (Laravel):** Developed a robust E-commerce platform from scratch using Laravel.
+2. **E-learning Platform (Laravel & React.js):** Integrated dynamic features using React.js within a Laravel-based e-learning platform.
+3. **Delivery App (PWA - Express.js & React.js):** Currently working on a progressive web app for seamless deliveries using Node.js with its framework Express.js and React.js.
+4. **I have created multiple other websites, including WordPress, and have experience with various technologies such as Next.js and CodeIgniter (when it was popular in the past).
+
+#### 🌱 Always Learning
+
+I'm passionate about staying up-to-date with the latest technologies and continuously improving my skills. If you have any questions or need more information, feel free to ask!
+
+#### 📫 Let's Connect
+
+- GitHub: iason9(https://github.com/iason9)
+- Twitter: [Message me in twitter ](https://www.twitter.com/iason9G)
 
 
----
-
-### Languages and Tools:
-
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/laravel/laravel-plain-wordmark.svg" />
-<img align="left" alt="NODEJS" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Command Line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/git/git-original.svg" />
-<img align="left" alt="MySql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/mysql/mysql-original.svg" />
-<img align="left" alt="mongoDB" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/mongodb/mongodb-original-wordmark.svg" />
-<br />
-
+Looking forward to connecting with fellow developers and exploring new opportunities!
